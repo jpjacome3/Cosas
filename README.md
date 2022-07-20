@@ -14,3 +14,7 @@ Proceso
 ![p_2](https://user-images.githubusercontent.com/84586968/179873616-fb8139ea-7b70-44a1-abe6-c636779199ca.PNG)
 
 ![p_3](https://user-images.githubusercontent.com/84586968/179873618-78796d62-deb5-463d-9ecc-a91cc2986c6a.PNG)
+
+wolfram.
+
+![wolfram](https://user-images.githubusercontent.com/84586968/179874187-4356466a-830f-45b0-b344-e00f5b4ac7d8.PNG)
