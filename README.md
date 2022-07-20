@@ -20,3 +20,5 @@ wolfram.
 ![wolfram](https://user-images.githubusercontent.com/84586968/179874187-4356466a-830f-45b0-b344-e00f5b4ac7d8.PNG)
 
 ![B](https://user-images.githubusercontent.com/84586968/179877006-a3ec4534-fc70-4f61-9d35-a71886d934b5.PNG)
+
+![X-RES](https://user-images.githubusercontent.com/84586968/179880675-0c129e45-9e8d-4a61-bd89-11202f9e38f5.PNG)
