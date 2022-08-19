@@ -26,6 +26,7 @@ wolfram.
 ![t1](https://user-images.githubusercontent.com/84586968/179884357-166622be-bb23-4934-b688-666e5824aa50.PNG)
 
 foro estadistica:
+
 ![1](https://user-images.githubusercontent.com/84586968/185706922-3546b8a3-5d3f-4187-aa0a-35c236fe6164.PNG)
 
 ![2](https://user-images.githubusercontent.com/84586968/185706924-5e0f4e2d-0a9f-48ab-badb-bdf8b72e8284.PNG)
