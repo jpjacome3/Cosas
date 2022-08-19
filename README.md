@@ -24,3 +24,18 @@ wolfram.
 ![X-RES](https://user-images.githubusercontent.com/84586968/179880675-0c129e45-9e8d-4a61-bd89-11202f9e38f5.PNG)
 
 ![t1](https://user-images.githubusercontent.com/84586968/179884357-166622be-bb23-4934-b688-666e5824aa50.PNG)
+
+foro estadistica:
+![1](https://user-images.githubusercontent.com/84586968/185706922-3546b8a3-5d3f-4187-aa0a-35c236fe6164.PNG)
+
+![2](https://user-images.githubusercontent.com/84586968/185706924-5e0f4e2d-0a9f-48ab-badb-bdf8b72e8284.PNG)
+
+![3](https://user-images.githubusercontent.com/84586968/185706926-c77477a2-4a96-4e90-9a65-61a4e976a1ff.PNG)
+
+![4](https://user-images.githubusercontent.com/84586968/185706928-f70e160f-9741-47f0-8d7e-0504703df94e.PNG)
+
+![5](https://user-images.githubusercontent.com/84586968/185706929-1a4cefa2-393b-41d8-b3f9-03e7108f79b3.PNG)
+
+![6](https://user-images.githubusercontent.com/84586968/185706930-7ec975ae-2754-4eda-88e3-13880e1e3b0d.PNG)
+
+![7](https://user-images.githubusercontent.com/84586968/185706954-d029188c-ef60-4a6e-bb86-386531966a8e.PNG)
