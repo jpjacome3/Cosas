@@ -50,3 +50,7 @@ foro estadistica:
 ![imagen_3](https://user-images.githubusercontent.com/84586968/187001305-333abda8-0de5-4667-86f0-6d9d06c4a341.PNG)
 
 ![grafica_funcion](https://user-images.githubusercontent.com/84586968/187001306-818f1f67-9859-443c-9836-38c9a31cd22c.PNG)
+
+corregida
+
+![imagen_2_arreglada](https://user-images.githubusercontent.com/84586968/187001932-435ea368-19c5-4d75-9a0e-c543e2f245f1.PNG)
