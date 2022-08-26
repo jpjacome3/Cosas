@@ -58,3 +58,9 @@ corregida
 diferencias
 
 ![diferencias_fini](https://user-images.githubusercontent.com/84586968/187003230-828be4c7-8505-4f9e-a610-a57d309f125d.PNG)
+
+
+remplazo:
+
+
+![diferencias](https://user-images.githubusercontent.com/84586968/187004172-64fdb930-e98d-4d12-a535-4037627f3fc4.PNG)
