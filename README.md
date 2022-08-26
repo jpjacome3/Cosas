@@ -40,3 +40,13 @@ foro estadistica:
 ![6](https://user-images.githubusercontent.com/84586968/185706930-7ec975ae-2754-4eda-88e3-13880e1e3b0d.PNG)
 
 ![7](https://user-images.githubusercontent.com/84586968/185706954-d029188c-ef60-4a6e-bb86-386531966a8e.PNG)
+
+#foro 3p#
+
+![imagen_1](https://user-images.githubusercontent.com/84586968/187001303-003bb0d7-2f46-45d7-9e12-d81f4cb59500.PNG)
+
+![imagen_2](https://user-images.githubusercontent.com/84586968/187001304-f93c1d2e-490b-4040-bbf9-cfefb9d73da3.PNG)
+
+![imagen_3](https://user-images.githubusercontent.com/84586968/187001305-333abda8-0de5-4667-86f0-6d9d06c4a341.PNG)
+
+![grafica_funcion](https://user-images.githubusercontent.com/84586968/187001306-818f1f67-9859-443c-9836-38c9a31cd22c.PNG)
