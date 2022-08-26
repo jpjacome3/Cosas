@@ -54,3 +54,7 @@ foro estadistica:
 corregida
 
 ![imagen_2_arreglada](https://user-images.githubusercontent.com/84586968/187001932-435ea368-19c5-4d75-9a0e-c543e2f245f1.PNG)
+
+diferencias
+
+![diferencias_fini](https://user-images.githubusercontent.com/84586968/187003230-828be4c7-8505-4f9e-a610-a57d309f125d.PNG)
